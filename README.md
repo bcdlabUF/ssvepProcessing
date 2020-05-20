@@ -2,6 +2,8 @@
 
 ## These scripts can be used to process data from an ssvep task. 
 
+Stimuli_trainflick1.m and Stimuli_trainflick1_2.m are the scripts used to present the stimuli during testing. Stimuli_trainflick1.m corresponds with counterbalance 1 and Stimuli_trainflick1_2.m is counterbalance 2.
+
 The file structure I use is as follows (*you can use a different structure but will need to adjust the script*):
 
 * I have a main Study folder. In this folder I have the following folders: 'Data Files' and 'Split_Condition'
